@@ -1,0 +1,1 @@
+cmd_/home/denzel/se758/Module1/first.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ../scripts/module-common.lds -T ../arch/arm/kernel/module.lds -o /home/denzel/se758/Module1/first.ko /home/denzel/se758/Module1/first.o /home/denzel/se758/Module1/first.mod.o;  true
